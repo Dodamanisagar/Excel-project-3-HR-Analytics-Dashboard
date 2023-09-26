@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 Hi all,
-Sharing My 3rd Interactive excel project for Data Analyst/Catastrophic modeling analyst Role. The detail about the project are as follows :-
+Sharing My 3rd Interactive excel project for Data Analyst/Catastrophic modeling analyst Role. The detail about the project are as follows -
 
 ### KPI's:-
  1. Total number of attritions 
