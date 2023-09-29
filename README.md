@@ -11,7 +11,9 @@ Sharing My 3rd Interactive excel project for Data Analyst/Catastrophic modeling 
  6. Total number of Attrition by education
  7. Total number of Attrition by job
  8. Department wise total attrition
-
+    
+### Tools:-
+* Excel
 ### STEPS COVERED:-
  1. Data Analysis by Pivot Tables and Excel Functions
  2. Data Visualization to create charts and custom sheets to show the insights
