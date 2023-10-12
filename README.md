@@ -2,6 +2,13 @@
 Hi all,
 Sharing My 3rd Interactive excel project for Data Analyst/Catastrophic modeling analyst Role. The detail about the project are as follows -
 
+![Screenshot 2023-10-12 125217](https://github.com/Dodamanisagar/Excel-project-3-HR-Analytics-Dashboard/assets/99800998/aa4b7ccd-2ecc-4595-bd30-4166b10c63b2)
+
+
+
+
+
+
 ### KPI's:-
  1. Total number of attritions 
  2. Attrition rate 
